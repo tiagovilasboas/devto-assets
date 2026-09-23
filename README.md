@@ -8,7 +8,7 @@ Image assets for my DEV.to posts.
 
 Building an AI coding assistant from scratch — from theory to production.
 
-- **[00-harness-engineering](building-jarvis/00-harness-engineering/)** — What is a harness? The 5 layers, agent types, and model landscape.
+- **[00-harness-engineering](building-jarvis/00-harness-engineering/)** — The 5 layers of a harness (Context, Memory, Skills, MCPs, Agent), agent types, and the model landscape.
 
 ### #RoadToAISecurity
 
